@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jobjingjo/angularTest.svg?branch=master)](https://travis-ci.org/jobjingjo/angularTest)
+[![Build Status](https://travis-ci.org/jobjingjo/angularTest.svg?branch=master)](https://travis-ci.org/jobjingjo/angularTest) [![Coverage Status](https://coveralls.io/repos/github/jobjingjo/angularTest/badge.svg?branch=master)](https://coveralls.io/github/jobjingjo/angularTest?branch=master)
 
 # AngularTest
 
